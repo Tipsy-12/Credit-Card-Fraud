@@ -1,4 +1,5 @@
-##Overview
+Overview
+
 This project focuses on detecting fraudulent credit card transactions using various machine learning classification algorithms. Due to the highly imbalanced nature of the dataset, specific resampling techniques were applied to improve model performance on the minority class (fraud cases).
 
 Key Highlights
