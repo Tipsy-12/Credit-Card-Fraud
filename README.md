@@ -28,6 +28,7 @@ F1-Score: 0.80
 AUC Score: 0.96
 
 Conclusion
+
 The project successfully demonstrates the application of resampling techniques and comparative model evaluation for fraud detection. The Random Forest model proved to be the most effective in balancing precision and recall while maintaining high overall accuracy.
 
 
